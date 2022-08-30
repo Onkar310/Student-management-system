@@ -1,6 +1,6 @@
 # Student-management-system
 
-### npm i 
+### npm install
 in frontend
 installing all the dependencies
 ### npm start 
